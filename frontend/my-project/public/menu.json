@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "patia project",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "./homedesign9.jpg",
+        "category": "salad",
+        "rating": 4.7,
+        "desc":"You can trust us with your building, be it interior or exterior. We have highly experienced and trained resource to achieve the goal of your buildings."
+
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "oldtown building",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "./homedesign.jpg",
+        "category": "drinks",
+        "rating": 4.8,
+        "desc":"You can trust us with your building, be it interior or exterior. We have highly experienced and trained resource to achieve the goal of your buildings."
+
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Duplex in Cuttuck",
+        "recipe": "Best Property In Bhubneswar",
+        "image": "./home design 4.jpg",
+        "category": "popular",
+        "rating": 4.5,
+        "desc":"You can trust us with your building, be it interior or exterior. We have highly experienced and trained resource to achieve the goal of your buildings."
+
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "Project7",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "./homedesign10.jpg",
+        "category": "dessert",
+        "rating": 3.5,
+        "desc":"You can trust us with your building, be it interior or exterior. We have highly experienced and trained resource to achieve the goal of your buildings."
+
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Project in khurda",
+        "recipe": "Best Property In Bhubneswar",
+        "image": "./homedesign11.jpg",
+        "category": "popular",
+        "rating": 4.5,
+        "desc":"You can trust us with your building, be it interior or exterior. We have highly experienced and trained resource to achieve the goal of your buildings."
+
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee74",
+        "name": "Project in bhubneswar",
+        "recipe": "Best Property In Bhubneswar",
+        "image": "./homedesign7.jpg",
+        "category": "popular",
+        "rating": 4.5,
+        "desc":"You can trust us with your building, be it interior or exterior. We have highly experienced and trained resource to achieve the goal of your buildings."
+
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee712",
+        "name": "Project in Puri",
+        "recipe": "Best Property In Bhubneswar",
+        "image": "./homedesign6.jpg",
+        "category": "popular",
+        "rating": 4.9,
+        "desc":"You can trust us with your building, be it interior or exterior. We have highly experienced and trained resource to achieve the goal of your buildings."
+
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7x",
+        "name": "Project in Jatani",
+        "recipe": "Best Property In Bhubneswar",
+        "image": "./homedesign8.jpg",
+        "category": "popular",
+        "rating": 5.0,
+        "desc":"You can trust us with your building, be it interior or exterior. We have highly experienced and trained resource to achieve the goal of your buildings."
+
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Project in Pipili",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "./homedesign9.jpg",
+        "category": "dessert",
+        "rating": 3.5,
+        "desc":"You can trust us with your building, be it interior or exterior. We have highly experienced and trained resource to achieve the goal of your buildings."
+
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee94",
+        "name": "Project In Bhubneswar",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "./homedesign11.jpg",
+        "category": "pizza",
+        "rating": 5.0,
+        "desc":"You can trust us with your building, be it interior or exterior. We have highly experienced and trained resource to achieve the goal of your buildings."
+
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9e",
+        "name": "Breton Fish Stew",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "./fav.jpg",
+        "category": "pizza",
+        "rating": 5.0,
+        "desc":"You can trust us with your building, be it interior or exterior. We have highly experienced and trained resource to achieve the goal of your buildings."
+
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea6",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "./design7.jpg",
+        "category": "salad",
+        "rating": 3.5,
+        "desc":"You can trust us with your building, be it interior or exterior. We have highly experienced and trained resource to achieve the goal of your buildings."
+    }
+
+]
